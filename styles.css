@@ -1,0 +1,92 @@
+.card {
+    width: 200px;
+    height: 300x;
+    border: 1px solid black;
+    background-color:rgb(205, 118, 118);
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    overflow: auto;
+    border-radius: 10%;    
+}
+.buttonStyle {
+
+    background-color:rgb(243, 215, 215);
+}
+.myChoiceWindow {
+    position:relative;
+    left: 10%;
+    width: 200px;
+    border: 2px bold black;
+    padding: 16px;
+    text-align: center;
+    background-color:rgb(243, 215, 215);
+    display: inline-block;
+    overflow: auto;
+}
+
+
+.fixMenu {
+  position:fixed;
+  background-color: rgb(243, 215, 215);
+  width :100%;
+}
+
+.parallax {
+    /* The image used */
+    background-image: url("virtual-coin.png");
+        /* Set a specific height */
+    min-height: 300px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: "lightrosybrown";
+  }  
+ 
+#myCanvas{
+    
+    width:80%;
+    height :80%;
+border: 3px solid rgb(36, 12, 12);;
+color: rgb(10, 6, 6);;;
+align-self: center;
+background-color:rgb(234, 216, 216);
+margin:auto;
+display: block;
+}
+
+button{
+
+    text-align: center;
+    position: relative;
+}
+
+h1{
+    color:rgb(79, 39, 39);
+    text-align: center;
+    background-color:"lightrosybrown";
+    
+}   
+h2{
+
+    text-align: center;
+    background-color: rgb(243, 215, 215);
+}
+
+
+h3{
+    color:rgb(73, 33, 33);
+    text-align: center;
+    background-color:rgb(243, 215, 215);
+
+}
+#returnHome{
+    margin:auto;
+}
+
+#containerDiv{
+    text-align: center;
+}
