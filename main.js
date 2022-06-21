@@ -310,7 +310,7 @@ async function drawingEachIntervalOfTime() {
   const aboutMeAndThisProject = `
   <h1>About Me</h1>
   My name is Dinah Nabet <br>
- <img  src="/project2/virtual-coin.png" /><br><br>
+ <img  src="/https://github.com/dinabet/project2/blob/main/photo%204.JPG?raw=true" /><br><br>
   <h1>About this Project</h1>
   
   This project has the aim to give information on virtual currencies<b>
